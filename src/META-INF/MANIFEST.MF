@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Main-Class: Progtam
+Class-Path: jsp-api.jar servlet-api.jar poi-4.1.2.jar gson-2.2.4.jar jun
+ it-4.12.jar druid-1.1.9.jar druid-1.1.23.jar mykaptcha-2.3.2.jar hamcre
+ st-core-1.3.jar commons-dbutils-1.3.jar commons-logging-1.2.jar commons
+ -math3-3.6.1.jar commons-beanutils-1.8.0.jar spring-core-5.1.10.RELEASE
+ .jar mchange-commons-java-0.2.19.jar mysql-connector-java-8.0.15.jar sp
+ ring-beans-5.1.10.RELEASE.jar taglibs-standard-impl-1.2.1.jar taglibs-s
+ tandard-spec-1.2.1.jar mysql-connector-java-5.1.7-bin.jar c3p0-oracle-t
+ hin-extras-0.9.5.5.jar junit-jupiter-5.4.2.jar junit-jupiter-api-5.4.2.
+ jar apiguardian-api-1.0.0.jar opentest4j-1.1.1.jar junit-platform-commo
+ ns-1.4.2.jar junit-jupiter-params-5.4.2.jar junit-jupiter-engine-5.4.2.
+ jar junit-platform-engine-1.4.2.jar
+
